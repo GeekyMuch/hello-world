@@ -1,2 +1,3 @@
 # hello-world
-First git project
+My first git project.
+Super excited to work on loads of data science projects:) 
